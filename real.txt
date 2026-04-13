@@ -5594,8 +5594,8 @@ document.getElementById("popupOverlay").addEventListener("click", function(e){
     </div>
 
     <div class="popupBtn">
-      <a href="https://123tutupbotol.com/cong/login" class="btn login">LOGIN</a>
-      <a href="https://123tutupbotol.com/cong/daftar" class="btn daftar">DAFTAR</a>
+      <a href="https://cong-togel-cuy.pages.dev/" class="btn login">LOGIN</a>
+      <a href="https://cong-togel-cuy.pages.dev/" class="btn daftar">DAFTAR</a>
     </div>
 
     <div class="popupCopy">
